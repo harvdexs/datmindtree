@@ -1,0 +1,15 @@
+name,age,income,student,creditrating,buyscomputer
+S1,youth,high,no,fair,no
+S2,youth,high,no,excellent,no
+S3,middle_aged,high,no,fair,yes
+S4,senior,medium,no,fair,yes
+S5,senior,low,yes,fair,yes
+S6,senior,low,yes,excellent,no
+S7,middle_aged,low,yes,excellent,yes
+S8,youth,medium,no,fair,no
+S9,youth,low,yes,fair,yes
+S10,senior,medium,yes,fair,yes
+S11,youth,medium,yes,excellent,yes
+S12,middle_aged,medium,no,excellent,yes
+S13,middle_aged,high,yes,fair,yes
+S14,senior,medium,no,excellent,no
